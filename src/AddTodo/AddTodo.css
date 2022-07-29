@@ -1,0 +1,5 @@
+.form-add {
+    display: flex;
+    gap: .5rem;
+    margin-bottom: 1rem;
+}
